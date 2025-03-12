@@ -58,16 +58,11 @@ python main.py
 
 python trainer.py
 
-## 💻 Code Examples
 
 ### Face Detection
 
 
 python detector.py
-
-## 💻 Code Examples
-
-### Face Detection
 
 
 ## 📊 Database Structure
